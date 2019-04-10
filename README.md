@@ -27,13 +27,13 @@ Da bi ste testirali fajlove idite na sledeće veb stranice:
 
 - [utilities-online website](http://www.utilities-online.info/xsdvalidation/) Za XSD (XML Schema) fajlove ili validaciju XML fajlova naspram XML šema
 - [xmlvalidation webiste](https://www.xmlvalidation.com/) Za DTD fajlove ili validaciju XML fajlova naspram DTD fajlova
-- [utilities-online website](http://www.utilities-online.info/xsltransformation/) Za XSLT fajlove ili transformisanje XML fajlova
+- [xslttest website](http://xslttest.appspot.com/) Za XSLT fajlove ili transformisanje XML fajlova
 
 > **Takođe možete koristiti ugrađene XML alate unutar VS 2017**
 
-# Zadatak
+## Zadatak
 
-## XML
+### XML
 
 Napisati Adresar u vidu XML dokumenta. U Adresar se smeštaju podaci o Osobama i
 Kompanijama. Svaka Osoba i Kompanija ima jedinstvenu šifru u vidu atributa.
@@ -55,17 +55,17 @@ Osoba je opisana podelementima u datom redosledu:
 Kompanija je opisana skupom podelemenata:
 
 - Naziv
-- Adresa
-- Telefon
-- Emal
+- Adresa (isti opis kao za osobu)
+- Telefon (isti opis kao za osobu)
+- Email (isti opis kao za osobu)
 
 Potrebno je napisati podatke za najmanje 3 osobe i 3 kompanije koji odgovaraju navedenim uslovima iz zadatka.
 
-## DTD
+### DTD
 
 Napraviti eksterni DTD fajl koji će validirati XML dokument po pravilima uz maksimalno primenjena ograničenja.
 
-## XML Schema
+### XML Schema
 
 Napraviti XML Schema fajl koji će uvesti dodatna ograničenja:
 
@@ -75,7 +75,7 @@ Napraviti XML Schema fajl koji će uvesti dodatna ograničenja:
 - Email sadrži izraz koji ima maksimum 20 karaktera pa znak '@', zatim 4 do 8 karaktera i završava se sa '.com'
 - Telefon mora biti u formatu XXX/000-000. Vrednosti telefona moraju biti cifre
 
-## XSLT
+### XSLT
 
 Napraviti XSLT fajlove koji će izvršiti transformacije na već napravljen XML i prikazati:
 
@@ -85,7 +85,7 @@ Napraviti XSLT fajlove koji će izvršiti transformacije na već napravljen XML 
   - Prezime počinje sa slovom 'M' i naziv kompanije ima više od 6 karaktera
 - XML dokument koji će elemente Adrese: Ulica, Broj i Grad prebaciti da budu atributi elementa
 
-## GIT
+### GIT
 
 Potrebno je inicijalizovati repozitorijum i uraditi sledeće:
 
