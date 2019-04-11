@@ -50,11 +50,12 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
     <puno_ime>
       <ime>Marko</ime>
       <prezime>Markovic</prezime>
+      <prezime>Mirkovic</prezime>
     </puno_ime>
     <datum_rodjenja>
       <dan>15</dan>
       <mesec>8</mesec>
-      <godina>2006</godina>
+      <godina>2003</godina>
     </datum_rodjenja>
     <adresa tip="stalna">
       <ulica>Niksicka</ulica>
