@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--<!DOCTYPE adresar SYSTEM "adresar.dtd">-->
+<!--Da bi se proverila XML Schema sledeci komentar prekopirati i nalepiti u adresar tag-->
+<!--xmlns="http://tempuri.org/XMLSchema.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
+<adresar>
+  <osoba id="cacd64ca601179bd6f980ef">
+    <puno_ime>
+      <ime>Pera</ime>
+      <prezime>Peric</prezime>
+    </puno_ime>
+    <datum_rodjenja>
+      <dan>25</dan>
+      <mesec>10</mesec>
+      <godina>1984</godina>
+    </datum_rodjenja>
+    <adresa tip="stalna">
+      <ulica>Prvomajska</ulica>
+      <broj>20</broj>
+      <grad>Beograd</grad>
+      <drzava>Srbija</drzava>
+    </adresa>
+    <telefon tip="fiksni">011/000-000</telefon>
+    <email tip="privatni">perap@gmail.com</email>
+    <email tip="privatni">peraperic@gmail.com</email>
+    <email tip="sluzbeni">pperic@kompa.com</email>
+  </osoba>
+  <osoba id="cacd731e88cef08f59a55d3">
+    <puno_ime>
+      <ime>Mika</ime>
+      <srednje_ime>Zika</srednje_ime>
+      <prezime>Mikic</prezime>
+    </puno_ime>
+    <datum_rodjenja>
+      <dan>12</dan>
+      <mesec>2</mesec>
+      <godina>1996</godina>
+    </datum_rodjenja>
+    <adresa tip="stalna">
+      <ulica>Cara Dusana</ulica>
+      <broj>112</broj>
+      <grad>Beograd</grad>
+      <drzava>Srbija</drzava>
+    </adresa>
+    <telefon tip="mobilni">065/000-000</telefon>
+    <email tip="privatni">mika@proton.com</email>
+  </osoba>
+  <osoba id="cacd7d1e1141afc762f5e7a">
+    <puno_ime>
+      <ime>Marko</ime>
+      <prezime>Markovic</prezime>
+    </puno_ime>
+    <datum_rodjenja>
+      <dan>15</dan>
+      <mesec>8</mesec>
+      <godina>2006</godina>
+    </datum_rodjenja>
+    <adresa tip="stalna">
+      <ulica>Niksicka</ulica>
+      <broj>12</broj>
+      <grad>Beograd</grad>
+      <drzava>Srbija</drzava>
+    </adresa>
+    <telefon tip="fiksni">011/000-000</telefon>
+    <email tip="sluzbeni">markom@kompb.com</email>
+  </osoba>
+  <osoba id="cacd85585c4b065ee0493d4">
+    <puno_ime>
+      <ime>Nikola</ime>
+      <prezime>Nikolic</prezime>
+    </puno_ime>
+    <datum_rodjenja>
+      <dan>17</dan>
+      <mesec>3</mesec>
+      <godina>1978</godina>
+    </datum_rodjenja>
+    <adresa tip="privremena">
+      <ulica>Vitanovacka</ulica>
+      <broj>29</broj>
+      <grad>Beograd</grad>
+      <drzava>Srbija</drzava>
+    </adresa>
+    <telefon tip="fiksni">011/000-000</telefon>
+    <email tip="privatni">nikola@gmail.com</email>
+    <email tip="sluzbeni">nnikolic@kompa.com</email>
+    <email tip="sluzbeni">nikolan@kompa.com</email>
+  </osoba>
+  <kompanija id="cacd65e409f96375086c734">
+    <naziv>Komp1</naziv>
+    <adresa tip="stalna">
+      <ulica>Vojvode Stepe</ulica>
+      <broj>35</broj>
+      <grad>Beograd</grad>      
+    </adresa>
+    <telefon tip="fiksni">011/000-000</telefon>
+    <email tip="sluzbeni">kontakt@kompa.com</email>
+    <email tip="sluzbeni">prodaja@kompa.com</email>
+    <email tip="sluzbeni">marketing@kompa.com</email>
+  </kompanija>
+  <kompanija id="cacd94690de972ed7d45c05">
+    <naziv>Komp2</naziv>
+    <adresa tip="stalna">
+      <ulica>Zlatiborska</ulica>
+      <broj>33</broj>
+      <grad>Beograd</grad>
+    </adresa>
+    <telefon tip="fiksni">011/000-000</telefon>
+    <email tip="sluzbeni">office@kompa.com</email>
+  </kompanija>
+  <kompanija id="cacd99c7516465bfbf42450">
+    <naziv>Kompanija3</naziv>
+    <adresa tip="stalna">
+      <ulica>Bosanska</ulica>
+      <broj>70</broj>
+      <grad>Beograd</grad>
+    </adresa>
+    <telefon tip="mobilni">063/000-000</telefon>
+    <email tip="sluzbeni">kontakt@kompa.com</email>
+  </kompanija>
+</adresar>

@@ -80,7 +80,7 @@ Napraviti XML Schema fajl koji će uvesti dodatna ograničenja:
 Napraviti XSLT fajlove koji će izvršiti transformacije na već napravljen XML i prikazati:
 
 - HTML dokument sa tabelom koja prikazuje sve podatke o osobama i kompanijama koje sadrže više od dve email adrese
-- HTML doument sa tabelom koja prikazuje sve podatke o osobama i kompanijama čija je:
+- HTML dokument sa tabelom koja prikazuje sve podatke o osobama i kompanijama čija je:
   - Adresa stalna i datum rođenja u opsegu od 1990 - 2005 godine
   - Prezime počinje sa slovom 'M' i naziv kompanije ima više od 6 karaktera
 - XML dokument koji će elemente Adrese: Ulica, Broj i Grad prebaciti da budu atributi elementa
