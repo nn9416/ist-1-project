@@ -21,7 +21,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <grad>Beograd</grad>
       <drzava>Srbija</drzava>
     </adresa>
-    <telefon tip="fiksni">011/000-000</telefon>
+    <telefon tip="fiksni">011/242-581</telefon>
     <email tip="privatni">perap@gmail.com</email>
     <email tip="privatni">peraperic@gmail.com</email>
     <email tip="sluzbeni">pperic@kompa.com</email>
@@ -43,7 +43,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <grad>Beograd</grad>
       <drzava>Srbija</drzava>
     </adresa>
-    <telefon tip="mobilni">065/000-000</telefon>
+    <telefon tip="mobilni">065/345-123</telefon>
     <email tip="privatni">mika@proton.com</email>
   </osoba>
   <osoba id="cacd7d1e1141afc762f5e7a">
@@ -63,7 +63,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <grad>Beograd</grad>
       <drzava>Srbija</drzava>
     </adresa>
-    <telefon tip="fiksni">011/000-000</telefon>
+    <telefon tip="fiksni">011/784-582</telefon>
     <email tip="sluzbeni">markom@kompb.com</email>
   </osoba>
   <osoba id="cacd85585c4b065ee0493d4">
@@ -82,7 +82,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <grad>Beograd</grad>
       <drzava>Srbija</drzava>
     </adresa>
-    <telefon tip="fiksni">011/000-000</telefon>
+    <telefon tip="fiksni">011/765-908</telefon>
     <email tip="privatni">nikola@gmail.com</email>
     <email tip="sluzbeni">nnikolic@kompa.com</email>
     <email tip="sluzbeni">nikolan@kompa.com</email>
@@ -94,7 +94,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <broj>35</broj>
       <grad>Beograd</grad>      
     </adresa>
-    <telefon tip="fiksni">011/000-000</telefon>
+    <telefon tip="fiksni">011/024-147</telefon>
     <email tip="sluzbeni">kontakt@kompa.com</email>
     <email tip="sluzbeni">prodaja@kompa.com</email>
     <email tip="sluzbeni">marketing@kompa.com</email>
@@ -106,7 +106,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <broj>33</broj>
       <grad>Beograd</grad>
     </adresa>
-    <telefon tip="fiksni">011/000-000</telefon>
+    <telefon tip="fiksni">011/112-097</telefon>
     <email tip="sluzbeni">office@kompa.com</email>
   </kompanija>
   <kompanija id="cacd99c7516465bfbf42450">
@@ -116,7 +116,7 @@ xsi:schemaLocation="https://www.w3schools.com/xml Adresar.xsd"-->
       <broj>70</broj>
       <grad>Beograd</grad>
     </adresa>
-    <telefon tip="mobilni">063/000-000</telefon>
+    <telefon tip="mobilni">063/194-554</telefon>
     <email tip="sluzbeni">kontakt@kompa.com</email>
   </kompanija>
 </adresar>
